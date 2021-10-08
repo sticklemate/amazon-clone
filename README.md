@@ -1,2 +1,2 @@
-# amazon-clone
-Built in react. This repository contains source code for my take on amazon website.
+# Amazon-Clone
+Built in react. This repository contains source code for my take on Amazon E-commerce website.
